@@ -1,0 +1,6 @@
+#test 1.0
+#base : zk-rollup>optimistics, "fee"
+concepts,
+#func : most "sign" for wraps ;
+#approvers : time > "fee" method_1;
+#......
